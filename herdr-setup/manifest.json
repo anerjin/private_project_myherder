@@ -1,0 +1,11 @@
+﻿{
+    "exported_at":  "2026-11-09 23:32:24",
+    "exported_from":  "DESKTOP-QBA9ENH",
+    "herdr_app":  "herdr-app 0.1.14",
+    "herdr_core":  "hc 0.1.19",
+    "sha256":  {
+                   "programs/herdr-app/herdr-app.exe":  "66c0054a1df8ccf4b4dc9d13f5c780c89453aaff02860a3ec01a4859780a5ae2",
+                   "programs/herdr-core/herdr-core.exe":  "8c5c088eda5c441502fa58714277a250e38103c66180376ef00d63d6cab03f8d",
+                   "programs/herdr-core/hc.exe":  "8c5c088eda5c441502fa58714277a250e38103c66180376ef00d63d6cab03f8d"
+               }
+}

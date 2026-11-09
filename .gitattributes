@@ -1,0 +1,2 @@
+# herdr-setup: store every file byte-for-byte (mod hashes in installed.json depend on exact bytes)
+herdr-setup/** -text
